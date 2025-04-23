@@ -47,3 +47,11 @@ python app.py
     Press q while the webcam window is open
 
 
+## Notes
+
+    Make sure your webcam is working and accessible by OpenCV.
+
+    The audio alert file (alert.wav) must be placed in the specified audio/ directory.
+
+    The script will draw contours around eyes and mouth and print status ("Drowsy", "Yawning", or "Normal") in the terminal.
+
