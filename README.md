@@ -35,9 +35,9 @@ pip install -r requirements.txt
 3 **Download the model file**
 
     Download the shape_predictor_68_face_landmarks.dat file from dlib's official link
-    or https://drive.google.com/file/d/1PLtLdNgPFxjhNRYL-v2OwXXeJj1HZNEs/view?usp=sharing
-
+   
     Extract and place it in the models/ folder
+https://drive.google.com/file/d/1PLtLdNgPFxjhNRYL-v2OwXXeJj1HZNEs/view?usp=sharing
 
 4. **Run the application**
 
